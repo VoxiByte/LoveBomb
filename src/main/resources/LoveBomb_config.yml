@@ -1,0 +1,7 @@
+Enchants:
+  LoveBomb:
+    bomb_threshold: 30
+    bomb_delay: 3
+    model_data: 13002
+    blacklisted_worlds:
+      - test
